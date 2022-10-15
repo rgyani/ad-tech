@@ -113,6 +113,18 @@ Some targeting options offered by a DSP include:
 
 DSPs are also used for retargeting campaigns. This is possible because they are able to manage large volumes of ad inventories and recognize ad requests with an ideal target audience, targeted by the advertiser.
 
+
+### List of DSPs
+
+* AdColony
+* Meta Audience Network
+* Unity's Unified Auction
+* Vungle
+* AdMob
+* AppLovin
+* ironSource
+
+
 ### What is a DMP?
 A data management platform (DMP) is a platform that stores audience data, usually coming from multiple sources. It allows advertisers to create target audiences for their campaign based on 1st party and 3rd party audience data.
 
