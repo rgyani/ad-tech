@@ -35,7 +35,7 @@ The RTB process starts when a internet user accesses a website/app.
 1. The **publisher's** site sends a message to the **Supply-Side Platform** saying there is an impression available
 2. The **Supply-Side Platform** analyzes the information about the user's location, web history, age, gender etc and sends this information to the **ad-exchange**
 3. The **ad-exchange** starts an **auction** by passing this information to multiple **Demand-Side Platforms** and asking them to bid on the impression.
-4. The **Demand-Side Platform* calculates what that particular impression is worth to them and sends back a bid.
+4. The **Demand-Side Platform** calculates what that particular impression is worth to them and sends back a bid.
 5. The highest bid wins and then the ad is fetched from the **DSP**
 
 This whole proces is repeated for every available impression on a web page every time a user accesses a page, and also refreshes a page.  
